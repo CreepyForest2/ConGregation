@@ -15,4 +15,4 @@ This is an alpha version, so things such as default recipes for mods currently i
 -and many more!
 ## Where to report bugs
 
-right here: https://github.com/CreepyForest2/ConGregation/issues
+Right here: https://github.com/CreepyForest2/ConGregation/issues
