@@ -3,7 +3,7 @@
 
 Medium-sized modpack with most recipes gregified
 ## About
-ConGregation is a medium sized modpack (about 250 mods) centered around the difficult recipes and mechanics of GtceuM. Inspired by modpacks such as GT:NH and Monifactory, ConGregation tries to offer a unique progression, integrating (for now) mods such as Tinker's construct, Create, GtceuM, and more. 
+ConGregation is a medium sized modpack (about 200 mods) centered around the difficult recipes and mechanics of GtceuM. Inspired by modpacks such as GT:NH and Monifactory, ConGregation tries to offer a unique progression, integrating (for now) mods such as Tinker's construct, Create, GtceuM, and more. 
 
 This is an alpha version, so things such as default recipes for mods currently integrated into progression and other bugs are to be expected, please report them if you find any!
 ## Features
