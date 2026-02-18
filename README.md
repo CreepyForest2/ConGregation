@@ -19,4 +19,5 @@ As always, please report any bugs or strange stuff you might encounter!
 ## Where to report bugs
 
 Right here: https://github.com/CreepyForest2/ConGregation/issues
+
 Discord server: https://discord.gg/Uc5z5bQy8m
