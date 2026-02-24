@@ -1,5 +1,5 @@
 # ConGregation
-<img width="256" height="256" alt="icon_detaliat" src="https://github.com/user-attachments/assets/233615bd-0eb8-48dd-963e-9bbbcd5b7c26" />
+<img width="256" height="256" alt="icon_update" src="https://github.com/user-attachments/assets/b1a8b8cd-081d-48c7-92ad-268ab9522ab0" />
 
 
 Medium-sized modpack with most recipes gregified
@@ -19,5 +19,6 @@ As always, please report any bugs or strange stuff you might encounter!
 ## Where to report bugs
 
 Right here: https://github.com/CreepyForest2/ConGregation/issues
+
 
 Discord server: https://discord.gg/Uc5z5bQy8m
