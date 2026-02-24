@@ -1,5 +1,5 @@
 # ConGregation
-<img width="1024" height="576" alt="icon_update" src="https://github.com/user-attachments/assets/b1a8b8cd-081d-48c7-92ad-268ab9522ab0" />
+<img width="512" height="288" alt="icon_update" src="https://github.com/user-attachments/assets/b1a8b8cd-081d-48c7-92ad-268ab9522ab0" />
 
 
 Medium-sized modpack with most recipes gregified
